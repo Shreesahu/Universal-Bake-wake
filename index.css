@@ -10,8 +10,8 @@
 }
 
 :root{
-    --bg-color:black;
-    --second-bg-color:;
-    --text-color:white;
-    --main-color:;
+    --bg-color:white;
+    --second-bg-color:wheat;
+    --text-color:black;
+    --main-color:blue;
 }
